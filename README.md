@@ -1,4 +1,4 @@
-# beacon
+# BEACON-Awareness
 
 A new Flutter project.
 
