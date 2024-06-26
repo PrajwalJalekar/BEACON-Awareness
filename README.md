@@ -80,6 +80,8 @@ Contributions to Beacon are highly encouraged! Here’s how you can get involved
 5. **Submit a Pull Request:** Once everything is in order, submit a pull request with a detailed description of your changes.
 
 
+
+
 ## Implementation
 
 https://github.com/PrajwalJalekar/BEACON-Awareness/assets/149295985/396325ea-53bd-483e-9d5e-cfe5b3bea475
