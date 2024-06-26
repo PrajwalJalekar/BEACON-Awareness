@@ -3,8 +3,8 @@ Beacon is a mobile application for Flutter that provides users with personalized
 
 
 ## Functions
-**Real-time Updates**: on news, education, government policy, and agriculture.
-**Personalized Content:** Content delivery is tailored to user preferences, resulting in a more personalized and efficient experience.
+*Real-time Updates:* on news, education, government policy, and agriculture.
+-Personalized Content: Content delivery is tailored to user preferences, resulting in a more personalized and efficient experience.
 **User-Friendly Interface:** The design is intuitive and easy to use, allowing for seamless navigation and accessibility.
 
 **Weather Information:** Stay informed about current weather conditions, such as temperature, humidity, wind speed, and more.
