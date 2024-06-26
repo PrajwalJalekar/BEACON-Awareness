@@ -3,9 +3,9 @@ Beacon is a mobile application for Flutter that provides users with personalized
 
 
 ## Functions
-*Real-time Updates:* on news, education, government policy, and agriculture.
+- Real-time Updates: on news, education, government policy, and agriculture.
 - Personalized Content: Content delivery is tailored to user preferences, resulting in a more personalized and efficient experience.
-**User-Friendly Interface:** The design is intuitive and easy to use, allowing for seamless navigation and accessibility.
+- User-Friendly Interface: The design is intuitive and easy to use, allowing for seamless navigation and accessibility.
 
 **Weather Information:** Stay informed about current weather conditions, such as temperature, humidity, wind speed, and more.
 
@@ -13,9 +13,9 @@ Beacon is a mobile application for Flutter that provides users with personalized
 ## Architectural Schema
 Beacon has a modular architecture to provide simplicity of development, scalability, and maintainability. The program is broken up into different modules, each in charge of a certain functionality or feature. Among the essential architectural elements are:
 
-*Drawer**: Holds navigation drawers for the application's many sections, such as Why Beacon, Contact Us, and About Us.
-*Screens**: Separate screens for the application's Why Beacon, About Us, Contact Us, and Weather sections.
-*Widgets**: Reusable user interface elements that are utilized on several displays, such the weather widget, info cards, and bottom navigation bar.
+- Drawer: Holds navigation drawers for the application's many sections, such as Why Beacon, Contact Us, and About Us.
+- Screens: Separate screens for the application's Why Beacon, About Us, Contact Us, and Weather sections.
+- Widgets: Reusable user interface elements that are utilized on several displays, such the weather widget, info cards, and bottom navigation bar.
 
 
 ## Technologies Employed
